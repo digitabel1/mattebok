@@ -2,8 +2,6 @@
 
 Algebra handler om bruk av variabler i matematikken. Det vil si at vi kan regne med verdier som vi ikke kjenner. 
 
-
-
 ## Variabler
 
 La oss ta et eksempel:
@@ -29,3 +27,35 @@ Du ser her at $b+b$ kan skriver som $2\cdot b$ , og at vi i algebra skriver det 
 2. $a+b+b+a+a$
 
 3. $a+b+b+b+b+c-a$
+
+4. $x+x+2x+y$
+
+5. $2x+2x+3y-x$
+
+## Regning med variabler
+
+Vi har jo sett hvordan vi kan addere og subtrahere (+ og -) variabler, men hvordan skal vi multiplisere og dividere variabler?
+
+Mange tenker at "her må vi pugge regneregler", men jeg vil si at det er nå vi må prøve å forstå. $a+a$ er jo $2a$, fordi å plusse et tall med seg selv er det samme som å gange tallet med 2. $y+y+y+y+y+y+y$ må jo da bli $7\cdot y$ som skrives $7y$.
+
+Så vi vet hvordan vi multipliserer et tall (konstant) med en bokstav (variabel). Hvordan ganger vi to variabler med hverandre? Vel, først bør vi repetere litt potenser:
+
+$2\cdot 2\cdot 2\cdot 2=2^4$
+
+Et tall som ganges med seg selv skriver vi altså som en potens på denne måten, og det kan vi også gjøre med variabler.
+
+### Trening
+
+## Uttrykk (og forenkling av uttrykk)
+
+### Trening
+
+## Algebra og geometri
+
+### Trening
+
+## Verdier av algebraiske uttrykk
+
+### Trening
+
+## Øvelse gjør mester
