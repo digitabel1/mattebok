@@ -74,14 +74,13 @@ $ \frac{8a^3}{4a^2}=\frac{8}{4}\cdot \frac{a}{a} \cdot \frac{a}{a} \cdot \frac{a
 
 Om du velger å føre mellomregning i boka di eller om du velger å stryke verdier, velger du selv (eller læreren din ;-)
 
-
+La oss fortsette med litt trening.
 
 ### Trening
 
 ## Uttrykk (og forenkling av uttrykk)
 
 ### Trening
-
 
 ## Algebra og geometri
 
