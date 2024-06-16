@@ -22,18 +22,17 @@ Du ser her at $b+b$ kan skriver som $2\cdot b$ , og at vi i algebra skriver det 
 
 ### Trening
 
-* $b+b+b$
-* $a+b+b+a+a$
-* $a+b+b+b+b+c-a$
-
-<<<<<<< Updated upstream
+1. $b+b+b$
 2. $a+b+b+a+a$
-
 3. $a+b+b+b+b+c-a$
+  
+4. $a+b+b+a+a$
 
-4. $x+x+2x+y$
+5. $a+b+b+b+b+c-a$
 
-5. $2x+2x+3y-x$
+6. $x+x+2x+y$
+
+7. $2x+2x+3y-x$
 
 ## Regning med variabler
 
@@ -45,7 +44,7 @@ Mange tenker at "her må vi pugge regneregler", men jeg vil si at det er nå vi 
 
 Så vi vet hvordan vi multipliserer et tall (konstant) med en bokstav (variabel). Hvordan ganger vi to variabler med hverandre? Vel, først bør vi repetere litt potenser:
 
-$2\cdot 2\cdot 2\cdot 2=2^4$
+$ 2 \cdot 2 \cdot 2 \cdot 2=2^4 $
 
 Et tall som ganges med seg selv skriver vi altså som en potens på denne måten, og det kan vi også gjøre med variabler. Det betyr av vi kan regne på denne måten:
 
@@ -56,12 +55,12 @@ $ 2b\cdot 3b\cdot b=2\cdot 3\cdot b\cdot b\cdot b=6\cdot b^3 = 6b^3$
 
 ### Trening
 
-1. $ a\cdot a $
-2. $ a\cdot a\cdot a $
-3. $ b\cdot b\cdot a\cdot a\cdot a$
-4. $ 2a \cdot 3b^2 \cdot a$
-5. $ 2z\cdot 2z \cdot 2z$
-6. $ 4g \cdot 5g \cdot g^3$
+1. $ a \cdot a $
+2. $ a \cdot a\cdot a $
+3. $ b \cdot b\cdot a\cdot a\cdot a $
+4. $ 2a \cdot 3b^2 \cdot a $
+5. $ 2z \cdot 2z \cdot 2z $
+6. $ 4g \cdot 5g \cdot g^3 $
 
 **Divisjon av variabler**
 
