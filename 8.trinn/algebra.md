@@ -22,8 +22,11 @@ Du ser her at $b+b$ kan skriver som $2\cdot b$ , og at vi i algebra skriver det 
 
 ### Trening
 
-1. $b+b+b$
+* $b+b+b$
+* $a+b+b+a+a$
+* $a+b+b+b+b+c-a$
 
+<<<<<<< Updated upstream
 2. $a+b+b+a+a$
 
 3. $a+b+b+b+b+c-a$
@@ -91,3 +94,5 @@ La oss fortsette med litt trening.
 ### Trening
 
 ## Øvelse gjør mester
+=======
+>>>>>>> Stashed changes
